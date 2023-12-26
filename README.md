@@ -24,4 +24,4 @@ This project is aimed at exploring and implementing packet sniffing techniques f
    ```bash
    git clone https://github.com/amr12m/network-sec.git)https://github.com/amr12m/network-sec.git
 ```
-made by amr mousa , john ayman , amr nassar , mohamed emad
+made by amr mousa , john ayman , amr nassar , mohamed emad, ahmed shalby and mostafa shehata
